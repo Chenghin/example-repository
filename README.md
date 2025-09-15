@@ -1,2 +1,2 @@
-# example-repository
+# my-repository
 FunFun!!!
